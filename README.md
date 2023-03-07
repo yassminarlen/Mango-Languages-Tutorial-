@@ -14,3 +14,6 @@
 ![Language Selection](https://support.mangolanguages.com/hc/article_attachments/360040082814/CreateProfile_Browser_3.png)
 
 5. Finally, select the highlighted 'start learning' icon to begin the course. Keep in mind that by clicking on the language icon the red arrow is point at you could change the language course to a diffrent language. Also, feel free to explore the red underlinded sections they could be useful to you during your Mango Language Learning adventure. 
+![Mango Final](https://github.com/yassminarlen/Mango-Languages-Tutorial-/blob/main/mango-final.jpg?raw=true)
+
+**Mango learner, you have taken the first step in enhancing your future, congratulations.**
