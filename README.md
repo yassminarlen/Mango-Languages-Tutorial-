@@ -8,4 +8,4 @@
 ![Mango Email](https://github.com/yassminarlen/Mango-Languages-Tutorial-/blob/main/mango_tutorial.jpg?raw=true)
 
 3. The login screen will look like this, you will be promted to fill out the highlighted boxes with the username and password provided to you in the email. 
-
+![Mango Login](https://github.com/yassminarlen/Mango-Languages-Tutorial-/blob/main/mango_login.jpg?raw=true)
