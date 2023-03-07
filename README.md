@@ -12,3 +12,5 @@
 
 4. After agreeing to the terms and conditons pop-up screen you will be asked to select a language, on this screen. You must select a language to begin your learning.
 ![Language Selection](https://support.mangolanguages.com/hc/article_attachments/360040082814/CreateProfile_Browser_3.png)
+
+5. Finally, select the highlighted 'start learning' icon to begin the course. Keep in mind that by clicking on the language icon the red arrow is point at you could change the language course to a diffrent language. Also, feel free to explore the red underlinded sections they could be useful to you during your Mango Language Learning adventure. 
