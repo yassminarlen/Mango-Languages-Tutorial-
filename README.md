@@ -9,3 +9,6 @@
 
 3. The login screen will look like this, you will be promted to fill out the highlighted boxes with the username and password provided to you in the email. 
 ![Mango Login](https://github.com/yassminarlen/Mango-Languages-Tutorial-/blob/main/mango_login.jpg?raw=true)
+
+4. After agreeing to the terms and conditons pop-up screen you will be asked to select a language, on this screen. You must select a language to begin your learning.
+![Language Selection](https://support.mangolanguages.com/hc/article_attachments/360040082814/CreateProfile_Browser_3.png)
